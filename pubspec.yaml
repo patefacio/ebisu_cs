@@ -1,0 +1,30 @@
+name: ebisu_cs
+version: 0.0.1
+author: Daniel Davidson <dbdavidson@yahoo.com>
+homepage: https://github.com/patefacio/ebisu_cs
+description: >
+  A library that supports code generation of cpp and others
+dependencies:
+
+# custom <ebisu_cs dependencies>
+# end <ebisu_cs dependencies>
+
+dev_dependencies:
+  yaml: "any"
+  unittest: ">=0.11.0 < 0.12.0"
+  browser: "any"
+  hop: "any"
+  hop_docgen: "any"
+
+# custom <ebisu_cs dev dependencies>
+# end <ebisu_cs dev dependencies>
+
+dependency_overrides:
+# custom <ebisu_cs dependency overrides>
+# end <ebisu_cs dependency overrides>
+
+transformers:
+
+# custom <ebisu_cs transformers>
+# end <ebisu_cs transformers>
+
